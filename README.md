@@ -6,3 +6,7 @@
 
 1. Create a repo in Github
 2. vercel
+
+## Note
+
+- update code:
