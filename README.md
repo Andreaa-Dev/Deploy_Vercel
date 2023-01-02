@@ -5,9 +5,9 @@
 ## Steps
 
 1. Create a repo in Github
-2. `vercel`
-3. `vercel --prod`
+2. Run `vercel`
+3. Then `vercel --prod`
 
 ## Note
 
-- update code:
+- update code: repeat steps 2 and 3
