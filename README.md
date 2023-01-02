@@ -5,7 +5,8 @@
 ## Steps
 
 1. Create a repo in Github
-2. vercel
+2. `vercel`
+3. `vercel --prod`
 
 ## Note
 
