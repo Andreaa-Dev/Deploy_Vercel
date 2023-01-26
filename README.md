@@ -11,3 +11,4 @@
 ## Note
 
 - update code: repeat steps 2 and 3
+- useful link: `https://vercel.com/docs/concepts/deployments/overview`
