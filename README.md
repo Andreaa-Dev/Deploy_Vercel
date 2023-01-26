@@ -12,3 +12,7 @@
 
 - update code: repeat steps 2 and 3
 - useful link: `https://vercel.com/docs/concepts/deployments/overview`
+
+## Others
+
+1. https://www.npmjs.com/package/react-fast-marquee
